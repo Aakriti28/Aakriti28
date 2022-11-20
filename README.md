@@ -18,13 +18,19 @@ Reach me at :
 [email]: mailto:aakriti281020@gmail.com
 <!-- [facebook]: https://www.facebook.com/people/Aakriti/100011080322296/ -->
 
-<br/>
-<br/>
+<br>
+<br>
 
 <p width="50%" align="left"> <!--style="max-width:500px;"-->
   <img src = "https://github-readme-stats.vercel.app/api?username=Aakriti28&show_icons=true&theme=dracula&line_height=27">
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aakriti28&hide=jupyter notebook,html&theme=tokyonight"> -->
 </p>
+
+<br>
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,azure,gcp,c,cpp,java,bash,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,django,flask,nodejs,react,firebase,docker,matlab,solidity,git,gitlab)](https://skillicons.dev)
 
 <!-- - 👋 Hi, I’m @Aakriti28
 - 👀 I’m interested in ...
