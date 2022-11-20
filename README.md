@@ -1,15 +1,15 @@
 Hey there!
-I am a senior undergraduate in the Department of Computer Science & Engineering at the Indian Institute of Technology Bombay (IIT Bombay). 
+I am a senior undergraduate in the Department of Computer Science & Engineering at the Indian Institute of Technology Bombay. 
 I am interested in Artificial Intelligence and Machine Learning.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aakriti28&label=Profile%20views&color=129e00&style=plastic" alt="Aakriti28" /> </p>
 
-Here's how to reach me:  
+Reach me at :  
 
 <!-- [<img align="left" alt="trunc8.github.io" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="Aakriti28 | Instagram" width="30px" src="https://img.icons8.com/color-glass/144/null/instagram-new.png" />][instagram]
-[<img align="left" alt="Aakriti28 | LinkedIn" width="30px" src="https://img.icons8.com/color-glass/144/null/linkedin.png" />][linkedin]
 [<img align="left" alt="Aakriti28 | LinkedIn" width="30px" src="https://img.icons8.com/color-glass/144/null/gmail.png" />][email]
+[<img align="left" alt="Aakriti28 | LinkedIn" width="30px" src="https://img.icons8.com/color-glass/144/null/linkedin.png" />][linkedin]
+[<img align="left" alt="Aakriti28 | Instagram" width="30px" src="https://img.icons8.com/color-glass/144/null/instagram-new.png" />][instagram]
 <!-- [<img align="left" alt="Aakriti28 | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] -->
 
 <!-- [website]: https://trunc8.github.io -->
