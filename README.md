@@ -28,6 +28,9 @@ Reach me at :
 
 <br>
 <br>
+<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/aakriti28/langs)](https://githubtrends.io)
+<br>
+<br> -->
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,azure,gcp,c,cpp,java,bash,postgres,sqlite)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=angular,django,flask,nodejs,react,firebase,docker,matlab,solidity,git,gitlab)](https://skillicons.dev)
