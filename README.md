@@ -34,8 +34,8 @@ Reach me at :
 <br>
 <br> -->
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,azure,gcp,c,cpp,java,bash,postgres,sqlite)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular,django,flask,nodejs,react,firebase,docker,matlab,solidity,git,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,azure,gcp,cpp,java,postgres,angular,django)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=angular,django,flask,nodejs,react,matlab,solidity,git,gitlab)](https://skillicons.dev)-->
 
 <!-- - 👋 Hi, I’m @Aakriti28
 - 👀 I’m interested in ...
