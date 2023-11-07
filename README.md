@@ -1,6 +1,6 @@
 Hey there!
 I am a first-year Master's student pursuing MSCS at the University of Illinois Urbana-Champaign. I recently completed my Bachelor's from the Department of Computer Science & Engineering at the Indian Institute of Technology Bombay. 
-I am interested in Machine Learning and Software Engineering.
+I am interested in Machine Learning and Software Engineering. I have some industry experience from my past internships at Microsoft and Ubisoft, where I have contributed to data science, natural language processing, and computer vision projects. I have also done significant research, published at NeurIPS, and contributed to open-source libraries and code repositories. As a student researcher, I have also worked with people from IBM Research and Amazon. I am also passionate about software development and database systems and have also worked as full-stack development intern at a astartup.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aakriti28&label=Profile%20views&color=129e00&style=plastic" alt="Aakriti28" /> </p>
 
