@@ -1,6 +1,6 @@
 Hey there!
-I am a senior undergraduate in the Department of Computer Science & Engineering at the Indian Institute of Technology Bombay. 
-I am interested in Artificial Intelligence and Machine Learning.
+I am a first-year Master's student pursuing MSCS at the University of Illinois Urbana-Champaign. I recently completed my Bachelor's from the Department of Computer Science & Engineering at the Indian Institute of Technology Bombay. 
+I am interested in Machine Learning and Software Engineering.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aakriti28&label=Profile%20views&color=129e00&style=plastic" alt="Aakriti28" /> </p>
 
